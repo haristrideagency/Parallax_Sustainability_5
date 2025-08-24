@@ -417,7 +417,7 @@ button.offerButton {
 	.fg-quest-header h3 { font-size: 60px; line-height: 1.2; }
 	.fg-quest-header p { font-size: 32px; line-height: 1.45; padding-top: 20px; }
 	.fg-quest-footer { border-bottom: none; padding-top: 0; }
-	.fg-quest-footer h5 { font-size: 32px; border-top: 5px solid #707070; padding: 30px 30px 0; margin-top: 30px; line-height: 1.4; }
+	.fg-quest-footer h5 { font-size: 28px; border-top: 5px solid #707070; padding: 30px 30px 0; margin-top: 30px; line-height: 1.4; }
 
 	.fg-seal-mainwrap { margin: 0; }
 	.fg-seal-mainwrap > img { bottom: 0; max-width: 75%; }
